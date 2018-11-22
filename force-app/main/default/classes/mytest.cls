@@ -1,6 +1,6 @@
 @isTest
 private class mytest {
-
+//Just testing Travis CI auto build
     @isTest
     static void myUnitTest() {
         myclass demo = new myclass();
